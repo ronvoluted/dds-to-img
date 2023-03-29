@@ -12,7 +12,7 @@ dds-to-img <directory> [{png|webp}]
 ```
 **Example:**
 ```
-dds-to-image textures/ui webp
+dds-to-img textures/ui webp
 ```
 The directory structure will be maintained and output to a new sibling folder named `<directory>_<image format>`
 
